@@ -56,7 +56,3 @@ Interact with the diabetes prediction ML model through our web app!
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License.
